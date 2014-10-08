@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">FirstAndroidGitHubProject</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Hello PI!</string>
     <string name="action_settings">Settings</string>
 
 </resources>
